@@ -1,0 +1,1660 @@
+[
+  {
+    "id": "PROP001",
+    "title": "Beautiful Villa in Anna Nagar",
+    "propertyType": "Villa",
+    "tenantPreference": [
+      "Family",
+      "Working Professional"
+    ],
+    "city": "Chennai",
+    "locality": "Anna Nagar",
+    "address": "89, Main Road, Anna Nagar, Chennai - 149149",
+    "rent": 16000,
+    "deposit": 64000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "areaSqFt": 2072,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-10-05",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "washing_machine",
+      "parking",
+      "lift",
+      "kitchen",
+      "balcony",
+      "power_backup",
+      "geyser",
+      "tv"
+    ],
+    "description": "A stunning villa located in the heart of Anna Nagar. Perfect for Family and Working Professional. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 1",
+      "verified": false,
+      "contact": "owner@example.com",
+      "mobile": "+91 9227019249"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP002",
+    "title": "Beautiful Shared Room in Bandra",
+    "propertyType": "Shared Room",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Mumbai",
+    "locality": "Bandra",
+    "address": "28, Main Road, Bandra, Mumbai - 237154",
+    "rent": 11000,
+    "deposit": 33000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 494,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-09-21",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "tv",
+      "balcony",
+      "security",
+      "lift",
+      "geyser",
+      "parking"
+    ],
+    "description": "A stunning shared room located in the heart of Bandra. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 2",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9977828491"
+    },
+    "isPopular": true,
+    "isNew": true
+  },
+  {
+    "id": "PROP003",
+    "title": "Beautiful Independent House in Madhapur",
+    "propertyType": "Independent House",
+    "tenantPreference": [
+      "Bachelor",
+      "Student"
+    ],
+    "city": "Hyderabad",
+    "locality": "Madhapur",
+    "address": "100, Main Road, Madhapur, Hyderabad - 623372",
+    "rent": 14000,
+    "deposit": 28000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 495,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-10-09",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "balcony",
+      "kitchen",
+      "water",
+      "lift",
+      "ac",
+      "geyser",
+      "wifi",
+      "security"
+    ],
+    "description": "A stunning independent house located in the heart of Madhapur. Perfect for Family and Couple. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 3",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9063302695"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP004",
+    "title": "Beautiful Villa in Koramangala",
+    "propertyType": "Villa",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Bengaluru",
+    "locality": "Koramangala",
+    "address": "73, Main Road, Koramangala, Bengaluru - 424163",
+    "rent": 44000,
+    "deposit": 132000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "areaSqFt": 1860,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-10-04",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "washing_machine",
+      "balcony",
+      "geyser",
+      "tv",
+      "lift",
+      "power_backup"
+    ],
+    "description": "A stunning villa located in the heart of Koramangala. Perfect for Any. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 4",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9821997835"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP005",
+    "title": "Beautiful Shared Room in Kondapur",
+    "propertyType": "Shared Room",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Hyderabad",
+    "locality": "Kondapur",
+    "address": "78, Main Road, Kondapur, Hyderabad - 109888",
+    "rent": 24000,
+    "deposit": 96000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 581,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-28",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "kitchen",
+      "tv",
+      "balcony",
+      "ac",
+      "parking"
+    ],
+    "description": "A stunning shared room located in the heart of Kondapur. Perfect for Bachelor and Student. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 5",
+      "verified": false,
+      "contact": "owner@example.com",
+      "mobile": "+91 9155113216"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP006",
+    "title": "Beautiful Apartment in Hitech City",
+    "propertyType": "Apartment",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Hyderabad",
+    "locality": "Hitech City",
+    "address": "15, Main Road, Hitech City, Hyderabad - 981471",
+    "rent": 32000,
+    "deposit": 96000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 414,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-09-19",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "wifi",
+      "geyser",
+      "tv",
+      "washing_machine",
+      "parking",
+      "water",
+      "balcony",
+      "kitchen"
+    ],
+    "description": "A stunning apartment located in the heart of Hitech City. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 6",
+      "verified": false,
+      "contact": "owner@example.com",
+      "mobile": "+91 9615863353"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP007",
+    "title": "Beautiful Single Room in Koramangala",
+    "propertyType": "Single Room",
+    "tenantPreference": [
+      "Family",
+      "Couple"
+    ],
+    "city": "Bengaluru",
+    "locality": "Koramangala",
+    "address": "32, Main Road, Koramangala, Bengaluru - 453904",
+    "rent": 13000,
+    "deposit": 52000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 568,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-15",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "balcony",
+      "tv",
+      "power_backup",
+      "lift"
+    ],
+    "description": "A stunning single room located in the heart of Koramangala. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 7",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9462954707"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP008",
+    "title": "Beautiful Villa in Hinjewadi",
+    "propertyType": "Villa",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Pune",
+    "locality": "Hinjewadi",
+    "address": "42, Main Road, Hinjewadi, Pune - 721970",
+    "rent": 23000,
+    "deposit": 46000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "areaSqFt": 2308,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-09-20",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "kitchen",
+      "power_backup",
+      "balcony",
+      "lift",
+      "geyser",
+      "security",
+      "parking",
+      "wifi"
+    ],
+    "description": "A stunning villa located in the heart of Hinjewadi. Perfect for Family and Couple. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 8",
+      "verified": false,
+      "contact": "owner@example.com",
+      "mobile": "+91 9013536306"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP009",
+    "title": "Beautiful Single Room in Kharadi",
+    "propertyType": "Single Room",
+    "tenantPreference": [
+      "Family",
+      "Working Professional"
+    ],
+    "city": "Pune",
+    "locality": "Kharadi",
+    "address": "26, Main Road, Kharadi, Pune - 175558",
+    "rent": 18000,
+    "deposit": 54000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 471,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-14",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "washing_machine",
+      "tv",
+      "kitchen",
+      "parking",
+      "ac"
+    ],
+    "description": "A stunning single room located in the heart of Kharadi. Perfect for Family and Couple. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 9",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9149805925"
+    },
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "id": "PROP010",
+    "title": "Beautiful Shared Room in Whitefield",
+    "propertyType": "Shared Room",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Bengaluru",
+    "locality": "Whitefield",
+    "address": "68, Main Road, Whitefield, Bengaluru - 658545",
+    "rent": 11000,
+    "deposit": 33000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 572,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-10-02",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "ac",
+      "balcony",
+      "washing_machine",
+      "security",
+      "power_backup",
+      "geyser",
+      "parking"
+    ],
+    "description": "A stunning shared room located in the heart of Whitefield. Perfect for Family and Working Professional. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 10",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9143847419"
+    },
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "id": "PROP011",
+    "title": "Beautiful Villa in Kothrud",
+    "propertyType": "Villa",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Pune",
+    "locality": "Kothrud",
+    "address": "21, Main Road, Kothrud, Pune - 330908",
+    "rent": 22000,
+    "deposit": 44000,
+    "bedrooms": 4,
+    "bathrooms": 4,
+    "areaSqFt": 1788,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-12",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "ac",
+      "tv",
+      "parking",
+      "washing_machine",
+      "lift",
+      "water",
+      "kitchen"
+    ],
+    "description": "A stunning villa located in the heart of Kothrud. Perfect for Family and Working Professional. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 11",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9338812613"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP012",
+    "title": "Beautiful Single Room in Hitech City",
+    "propertyType": "Single Room",
+    "tenantPreference": [
+      "Bachelor",
+      "Student"
+    ],
+    "city": "Hyderabad",
+    "locality": "Hitech City",
+    "address": "17, Main Road, Hitech City, Hyderabad - 161658",
+    "rent": 15000,
+    "deposit": 30000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 503,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-09-11",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "power_backup",
+      "balcony",
+      "lift",
+      "security"
+    ],
+    "description": "A stunning single room located in the heart of Hitech City. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 12",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9862424684"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP013",
+    "title": "Beautiful 1 BHK in Kothrud",
+    "propertyType": "1 BHK",
+    "tenantPreference": [
+      "Family",
+      "Working Professional"
+    ],
+    "city": "Pune",
+    "locality": "Kothrud",
+    "address": "64, Main Road, Kothrud, Pune - 947998",
+    "rent": 12000,
+    "deposit": 36000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 531,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-10-03",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "wifi",
+      "tv",
+      "security",
+      "washing_machine",
+      "ac"
+    ],
+    "description": "A stunning 1 bhk located in the heart of Kothrud. Perfect for Family and Working Professional. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 13",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9400751864"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP014",
+    "title": "Beautiful 1 BHK in Goregaon",
+    "propertyType": "1 BHK",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Mumbai",
+    "locality": "Goregaon",
+    "address": "6, Main Road, Goregaon, Mumbai - 500340",
+    "rent": 36000,
+    "deposit": 144000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 524,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-10-04",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "power_backup",
+      "ac",
+      "security",
+      "tv",
+      "kitchen",
+      "geyser",
+      "water",
+      "washing_machine"
+    ],
+    "description": "A stunning 1 bhk located in the heart of Goregaon. Perfect for Bachelor and Student. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 14",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9052927148"
+    },
+    "isPopular": true,
+    "isNew": true
+  },
+  {
+    "id": "PROP015",
+    "title": "Beautiful 2 BHK in T Nagar",
+    "propertyType": "2 BHK",
+    "tenantPreference": [
+      "Family",
+      "Couple"
+    ],
+    "city": "Chennai",
+    "locality": "T Nagar",
+    "address": "18, Main Road, T Nagar, Chennai - 877428",
+    "rent": 8000,
+    "deposit": 16000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "areaSqFt": 878,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-09-18",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "security",
+      "ac",
+      "tv",
+      "water",
+      "washing_machine",
+      "wifi"
+    ],
+    "description": "A stunning 2 bhk located in the heart of T Nagar. Perfect for Any. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 15",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9928959159"
+    },
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "id": "PROP016",
+    "title": "Beautiful 2 BHK in Viman Nagar",
+    "propertyType": "2 BHK",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Pune",
+    "locality": "Viman Nagar",
+    "address": "16, Main Road, Viman Nagar, Pune - 514155",
+    "rent": 9000,
+    "deposit": 18000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "areaSqFt": 1044,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-09-26",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "balcony",
+      "wifi",
+      "geyser",
+      "kitchen",
+      "parking",
+      "water",
+      "tv",
+      "washing_machine"
+    ],
+    "description": "A stunning 2 bhk located in the heart of Viman Nagar. Perfect for Bachelor and Student. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 16",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9935380872"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP017",
+    "title": "Beautiful Single Room in Whitefield",
+    "propertyType": "Single Room",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Bengaluru",
+    "locality": "Whitefield",
+    "address": "2, Main Road, Whitefield, Bengaluru - 488007",
+    "rent": 40000,
+    "deposit": 80000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 421,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-09-12",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "ac",
+      "balcony",
+      "wifi",
+      "tv"
+    ],
+    "description": "A stunning single room located in the heart of Whitefield. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 17",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9815803565"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP018",
+    "title": "Beautiful PG in Gachibowli",
+    "propertyType": "PG",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Hyderabad",
+    "locality": "Gachibowli",
+    "address": "17, Main Road, Gachibowli, Hyderabad - 861343",
+    "rent": 19000,
+    "deposit": 57000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 579,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-09-12",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "tv",
+      "power_backup",
+      "parking",
+      "washing_machine",
+      "lift"
+    ],
+    "description": "A stunning pg located in the heart of Gachibowli. Perfect for Any. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 18",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9581820799"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP019",
+    "title": "Beautiful Independent House in Goregaon",
+    "propertyType": "Independent House",
+    "tenantPreference": [
+      "Family",
+      "Working Professional"
+    ],
+    "city": "Mumbai",
+    "locality": "Goregaon",
+    "address": "91, Main Road, Goregaon, Mumbai - 937442",
+    "rent": 15000,
+    "deposit": 60000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 401,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-09-15",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "water",
+      "ac",
+      "kitchen",
+      "balcony"
+    ],
+    "description": "A stunning independent house located in the heart of Goregaon. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 19",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9298022653"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP020",
+    "title": "Beautiful Shared Room in Kharadi",
+    "propertyType": "Shared Room",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Pune",
+    "locality": "Kharadi",
+    "address": "24, Main Road, Kharadi, Pune - 637696",
+    "rent": 44000,
+    "deposit": 132000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 504,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-10-05",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "geyser",
+      "security",
+      "water",
+      "lift",
+      "balcony",
+      "washing_machine",
+      "tv",
+      "ac"
+    ],
+    "description": "A stunning shared room located in the heart of Kharadi. Perfect for Bachelor and Student. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 20",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9198751556"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP021",
+    "title": "Beautiful PG in Adyar",
+    "propertyType": "PG",
+    "tenantPreference": [
+      "Family",
+      "Working Professional"
+    ],
+    "city": "Chennai",
+    "locality": "Adyar",
+    "address": "81, Main Road, Adyar, Chennai - 692858",
+    "rent": 14000,
+    "deposit": 56000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 481,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-09-19",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "parking",
+      "lift",
+      "power_backup"
+    ],
+    "description": "A stunning pg located in the heart of Adyar. Perfect for Bachelor and Student. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 21",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9216301044"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP022",
+    "title": "Beautiful 2 BHK in Adyar",
+    "propertyType": "2 BHK",
+    "tenantPreference": [
+      "Family",
+      "Working Professional"
+    ],
+    "city": "Chennai",
+    "locality": "Adyar",
+    "address": "31, Main Road, Adyar, Chennai - 816364",
+    "rent": 23000,
+    "deposit": 69000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "areaSqFt": 892,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-10-06",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "lift",
+      "ac",
+      "power_backup",
+      "washing_machine",
+      "security",
+      "water",
+      "balcony",
+      "parking"
+    ],
+    "description": "A stunning 2 bhk located in the heart of Adyar. Perfect for Bachelor and Student. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 22",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9714771186"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP023",
+    "title": "Beautiful Independent House in Kothrud",
+    "propertyType": "Independent House",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Pune",
+    "locality": "Kothrud",
+    "address": "21, Main Road, Kothrud, Pune - 594091",
+    "rent": 12000,
+    "deposit": 48000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 587,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-09-27",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "kitchen",
+      "tv",
+      "ac",
+      "washing_machine"
+    ],
+    "description": "A stunning independent house located in the heart of Kothrud. Perfect for Any. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 23",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9879790169"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP024",
+    "title": "Beautiful 1 BHK in Indiranagar",
+    "propertyType": "1 BHK",
+    "tenantPreference": [
+      "Family",
+      "Working Professional"
+    ],
+    "city": "Bengaluru",
+    "locality": "Indiranagar",
+    "address": "37, Main Road, Indiranagar, Bengaluru - 290148",
+    "rent": 16000,
+    "deposit": 32000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 594,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-23",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "wifi",
+      "kitchen",
+      "water",
+      "power_backup",
+      "tv",
+      "washing_machine",
+      "ac",
+      "balcony"
+    ],
+    "description": "A stunning 1 bhk located in the heart of Indiranagar. Perfect for Family and Working Professional. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 24",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9922442463"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP025",
+    "title": "Beautiful Apartment in Hinjewadi",
+    "propertyType": "Apartment",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Pune",
+    "locality": "Hinjewadi",
+    "address": "38, Main Road, Hinjewadi, Pune - 234244",
+    "rent": 15000,
+    "deposit": 30000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 575,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-25",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "security",
+      "tv",
+      "kitchen"
+    ],
+    "description": "A stunning apartment located in the heart of Hinjewadi. Perfect for Any. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 25",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9969279431"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP026",
+    "title": "Beautiful Single Room in Koramangala",
+    "propertyType": "Single Room",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Bengaluru",
+    "locality": "Koramangala",
+    "address": "40, Main Road, Koramangala, Bengaluru - 336217",
+    "rent": 23000,
+    "deposit": 46000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 452,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-10-03",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "parking",
+      "power_backup",
+      "lift",
+      "wifi",
+      "geyser",
+      "kitchen",
+      "washing_machine",
+      "tv"
+    ],
+    "description": "A stunning single room located in the heart of Koramangala. Perfect for Any. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 26",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9657924541"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP027",
+    "title": "Beautiful Apartment in OMR",
+    "propertyType": "Apartment",
+    "tenantPreference": [
+      "Family",
+      "Working Professional"
+    ],
+    "city": "Chennai",
+    "locality": "OMR",
+    "address": "91, Main Road, OMR, Chennai - 973706",
+    "rent": 30000,
+    "deposit": 120000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 532,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-09-16",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "balcony",
+      "water",
+      "wifi",
+      "lift",
+      "kitchen"
+    ],
+    "description": "A stunning apartment located in the heart of OMR. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 27",
+      "verified": false,
+      "contact": "owner@example.com",
+      "mobile": "+91 9230384041"
+    },
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "id": "PROP028",
+    "title": "Beautiful Apartment in Velachery",
+    "propertyType": "Apartment",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Chennai",
+    "locality": "Velachery",
+    "address": "21, Main Road, Velachery, Chennai - 368693",
+    "rent": 14000,
+    "deposit": 56000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 433,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-13",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "tv",
+      "parking",
+      "washing_machine"
+    ],
+    "description": "A stunning apartment located in the heart of Velachery. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 28",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9074473189"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP029",
+    "title": "Beautiful 3 BHK in HSR Layout",
+    "propertyType": "3 BHK",
+    "tenantPreference": [
+      "Bachelor",
+      "Student"
+    ],
+    "city": "Bengaluru",
+    "locality": "HSR Layout",
+    "address": "74, Main Road, HSR Layout, Bengaluru - 357078",
+    "rent": 25000,
+    "deposit": 100000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqFt": 1590,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-09-28",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "security",
+      "tv",
+      "washing_machine",
+      "wifi",
+      "water"
+    ],
+    "description": "A stunning 3 bhk located in the heart of HSR Layout. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 29",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9296167739"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP030",
+    "title": "Beautiful Villa in Whitefield",
+    "propertyType": "Villa",
+    "tenantPreference": [
+      "Family",
+      "Couple"
+    ],
+    "city": "Bengaluru",
+    "locality": "Whitefield",
+    "address": "5, Main Road, Whitefield, Bengaluru - 328140",
+    "rent": 24000,
+    "deposit": 96000,
+    "bedrooms": 4,
+    "bathrooms": 3,
+    "areaSqFt": 1904,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-09-15",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "balcony",
+      "geyser",
+      "wifi",
+      "parking",
+      "power_backup",
+      "lift",
+      "water"
+    ],
+    "description": "A stunning villa located in the heart of Whitefield. Perfect for Bachelor and Student. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 30",
+      "verified": false,
+      "contact": "owner@example.com",
+      "mobile": "+91 9036540867"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP031",
+    "title": "Beautiful Shared Room in Juhu",
+    "propertyType": "Shared Room",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Mumbai",
+    "locality": "Juhu",
+    "address": "32, Main Road, Juhu, Mumbai - 401234",
+    "rent": 21000,
+    "deposit": 42000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 469,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-30",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "security",
+      "parking",
+      "wifi"
+    ],
+    "description": "A stunning shared room located in the heart of Juhu. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 31",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9221491145"
+    },
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "id": "PROP032",
+    "title": "Beautiful 2 BHK in Kukatpally",
+    "propertyType": "2 BHK",
+    "tenantPreference": [
+      "Bachelor",
+      "Student"
+    ],
+    "city": "Hyderabad",
+    "locality": "Kukatpally",
+    "address": "37, Main Road, Kukatpally, Hyderabad - 536169",
+    "rent": 11000,
+    "deposit": 33000,
+    "bedrooms": 2,
+    "bathrooms": 1,
+    "areaSqFt": 1098,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-10-03",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "wifi",
+      "tv",
+      "geyser"
+    ],
+    "description": "A stunning 2 bhk located in the heart of Kukatpally. Perfect for Family and Working Professional. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 32",
+      "verified": false,
+      "contact": "owner@example.com",
+      "mobile": "+91 9092023053"
+    },
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "id": "PROP033",
+    "title": "Beautiful 2 BHK in Indiranagar",
+    "propertyType": "2 BHK",
+    "tenantPreference": [
+      "Family",
+      "Working Professional"
+    ],
+    "city": "Bengaluru",
+    "locality": "Indiranagar",
+    "address": "20, Main Road, Indiranagar, Bengaluru - 268578",
+    "rent": 39000,
+    "deposit": 156000,
+    "bedrooms": 2,
+    "bathrooms": 2,
+    "areaSqFt": 860,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-27",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "geyser",
+      "balcony",
+      "washing_machine",
+      "kitchen",
+      "security",
+      "tv"
+    ],
+    "description": "A stunning 2 bhk located in the heart of Indiranagar. Perfect for Bachelor and Student. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 33",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9556346650"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP034",
+    "title": "Beautiful PG in Miyapur",
+    "propertyType": "PG",
+    "tenantPreference": [
+      "Family",
+      "Couple"
+    ],
+    "city": "Hyderabad",
+    "locality": "Miyapur",
+    "address": "74, Main Road, Miyapur, Hyderabad - 308032",
+    "rent": 10000,
+    "deposit": 40000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 536,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-09-13",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "wifi",
+      "security",
+      "parking",
+      "geyser",
+      "ac",
+      "kitchen"
+    ],
+    "description": "A stunning pg located in the heart of Miyapur. Perfect for Family and Working Professional. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 34",
+      "verified": false,
+      "contact": "owner@example.com",
+      "mobile": "+91 9386434774"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP035",
+    "title": "Beautiful 3 BHK in Juhu",
+    "propertyType": "3 BHK",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Mumbai",
+    "locality": "Juhu",
+    "address": "19, Main Road, Juhu, Mumbai - 289612",
+    "rent": 43000,
+    "deposit": 172000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqFt": 1662,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-13",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "tv",
+      "ac",
+      "washing_machine",
+      "wifi",
+      "kitchen",
+      "parking"
+    ],
+    "description": "A stunning 3 bhk located in the heart of Juhu. Perfect for Any. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 35",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9624982808"
+    },
+    "isPopular": false,
+    "isNew": false
+  },
+  {
+    "id": "PROP036",
+    "title": "Beautiful Shared Room in Viman Nagar",
+    "propertyType": "Shared Room",
+    "tenantPreference": [
+      "Working Professional",
+      "Bachelor"
+    ],
+    "city": "Pune",
+    "locality": "Viman Nagar",
+    "address": "67, Main Road, Viman Nagar, Pune - 415215",
+    "rent": 36000,
+    "deposit": 144000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 480,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-09-19",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "power_backup",
+      "tv",
+      "water",
+      "kitchen",
+      "washing_machine",
+      "wifi"
+    ],
+    "description": "A stunning shared room located in the heart of Viman Nagar. Perfect for Family and Couple. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 36",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9046399808"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP037",
+    "title": "Beautiful 3 BHK in Andheri",
+    "propertyType": "3 BHK",
+    "tenantPreference": [
+      "Bachelor",
+      "Student"
+    ],
+    "city": "Mumbai",
+    "locality": "Andheri",
+    "address": "92, Main Road, Andheri, Mumbai - 695987",
+    "rent": 14000,
+    "deposit": 56000,
+    "bedrooms": 3,
+    "bathrooms": 2,
+    "areaSqFt": 1797,
+    "furnishing": "Fully Furnished",
+    "availableFrom": "2026-10-01",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "security",
+      "power_backup",
+      "ac",
+      "balcony",
+      "tv"
+    ],
+    "description": "A stunning 3 bhk located in the heart of Andheri. Perfect for Family and Working Professional. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 37",
+      "verified": false,
+      "contact": "owner@example.com",
+      "mobile": "+91 9643032792"
+    },
+    "isPopular": true,
+    "isNew": false
+  },
+  {
+    "id": "PROP038",
+    "title": "Beautiful 1 BHK in OMR",
+    "propertyType": "1 BHK",
+    "tenantPreference": [
+      "Family",
+      "Couple"
+    ],
+    "city": "Chennai",
+    "locality": "OMR",
+    "address": "86, Main Road, OMR, Chennai - 416717",
+    "rent": 40000,
+    "deposit": 160000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 490,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-09-11",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "geyser",
+      "ac",
+      "water",
+      "parking"
+    ],
+    "description": "A stunning 1 bhk located in the heart of OMR. Perfect for Any. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 38",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9078412522"
+    },
+    "isPopular": false,
+    "isNew": true
+  },
+  {
+    "id": "PROP039",
+    "title": "Beautiful 3 BHK in Kondapur",
+    "propertyType": "3 BHK",
+    "tenantPreference": [
+      "Bachelor",
+      "Student"
+    ],
+    "city": "Hyderabad",
+    "locality": "Kondapur",
+    "address": "56, Main Road, Kondapur, Hyderabad - 462522",
+    "rent": 12000,
+    "deposit": 24000,
+    "bedrooms": 3,
+    "bathrooms": 3,
+    "areaSqFt": 1671,
+    "furnishing": "Semi Furnished",
+    "availableFrom": "2026-10-02",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "parking",
+      "tv",
+      "security",
+      "lift"
+    ],
+    "description": "A stunning 3 bhk located in the heart of Kondapur. Perfect for Working Professional and Bachelor. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 39",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9662868363"
+    },
+    "isPopular": true,
+    "isNew": true
+  },
+  {
+    "id": "PROP040",
+    "title": "Beautiful PG in Bandra",
+    "propertyType": "PG",
+    "tenantPreference": [
+      "Any"
+    ],
+    "city": "Mumbai",
+    "locality": "Bandra",
+    "address": "39, Main Road, Bandra, Mumbai - 775947",
+    "rent": 11000,
+    "deposit": 22000,
+    "bedrooms": 1,
+    "bathrooms": 1,
+    "areaSqFt": 432,
+    "furnishing": "Unfurnished",
+    "availableFrom": "2026-09-23",
+    "images": [
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+      "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+    ],
+    "amenities": [
+      "tv",
+      "geyser",
+      "ac",
+      "balcony",
+      "washing_machine"
+    ],
+    "description": "A stunning pg located in the heart of Bandra. Perfect for Family and Working Professional. Enjoy comfortable living with top-class amenities.",
+    "owner": {
+      "name": "Owner 40",
+      "verified": true,
+      "contact": "owner@example.com",
+      "mobile": "+91 9075732765"
+    },
+    "isPopular": true,
+    "isNew": false
+  }
+]

@@ -1,0 +1,15 @@
+[
+  { "id": "wifi", "name": "Wi-Fi", "icon": "Wifi" },
+  { "id": "parking", "name": "Parking", "icon": "Car" },
+  { "id": "ac", "name": "AC", "icon": "Snowflake" },
+  { "id": "tv", "name": "TV", "icon": "Tv" },
+  { "id": "washing_machine", "name": "Washing Machine", "icon": "Shirt" },
+  { "id": "geyser", "name": "Geyser", "icon": "Thermometer" },
+  { "id": "kitchen", "name": "Kitchen", "icon": "Utensils" },
+  { "id": "balcony", "name": "Balcony", "icon": "Wind" },
+  { "id": "lift", "name": "Lift", "icon": "ArrowUpDown" },
+  { "id": "security", "name": "Security", "icon": "ShieldCheck" },
+  { "id": "power_backup", "name": "Power Backup", "icon": "BatteryCharging" },
+  { "id": "water", "name": "Water Supply", "icon": "Droplets" },
+  { "id": "attached_bathroom", "name": "Attached Bathroom", "icon": "Bath" }
+]

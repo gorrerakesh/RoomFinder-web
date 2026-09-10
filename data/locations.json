@@ -1,0 +1,34 @@
+[
+  {
+    "city": "Hyderabad",
+    "localities": ["Madhapur", "Kondapur", "Gachibowli", "Kukatpally", "Hitech City", "Miyapur", "Ameerpet", "Secunderabad", "Begumpet", "Manikonda"]
+  },
+  {
+    "city": "Bengaluru",
+    "localities": ["Koramangala", "Indiranagar", "Whitefield", "HSR Layout", "Electronic City", "Marathahalli", "Jayanagar", "BTM Layout", "Bellandur"]
+  },
+  {
+    "city": "Chennai",
+    "localities": ["Adyar", "Velachery", "T Nagar", "Anna Nagar", "OMR", "Tambaram", "Guindy", "Mylapore", "Thiruvanmiyur"]
+  },
+  {
+    "city": "Mumbai",
+    "localities": ["Andheri", "Bandra", "Juhu", "Powai", "Goregaon", "Malad", "Colaba", "Worli", "Dadar"]
+  },
+  {
+    "city": "Pune",
+    "localities": ["Hinjewadi", "Kharadi", "Viman Nagar", "Kothrud", "Wakad", "Magarpatta", "Baner", "Hadapsar"]
+  },
+  {
+    "city": "Delhi",
+    "localities": ["Saket", "Vasant Kunj", "Dwarka", "Rohini", "Lajpat Nagar", "Hauz Khas", "Connaught Place", "Karol Bagh"]
+  },
+  {
+    "city": "Noida",
+    "localities": ["Sector 15", "Sector 18", "Sector 62", "Sector 137", "Sector 76"]
+  },
+  {
+    "city": "Gurgaon",
+    "localities": ["Cyber City", "DLF Phase 1", "DLF Phase 2", "DLF Phase 3", "Sohna Road", "Golf Course Road"]
+  }
+]
